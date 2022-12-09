@@ -10,6 +10,7 @@ S.add(3)
 S.add(4)
 S.add(1)
 
-#This is how you print and view the contents of the set that you have made
+S.remove(2)
 
+#This is how you print and view the contents of the set that you have made
 print(S)
