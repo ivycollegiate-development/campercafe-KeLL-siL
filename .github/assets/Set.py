@@ -9,6 +9,8 @@ S.add(2)
 S.add(3)
 S.add(4)
 S.add(1)
+S.add(6)
+
 
 S.remove(2)
 
